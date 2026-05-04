@@ -1,0 +1,134 @@
+{
+  "candidate0": {
+    "top_tracks": [
+      "T01",
+      "T09",
+      "T04"
+    ],
+    "recommended_degree": "MHA",
+    "rationale": [
+      {
+        "track": "T01",
+        "reason": "Strong alignment with leadership and administrative intent, supported by quality improvement focus, reinforced by MHA degree fit."
+      },
+      {
+        "track": "T09",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MHA degree fit."
+      },
+      {
+        "track": "T04",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MHA degree fit."
+      }
+    ]
+  },
+  "candidate1": {
+    "top_tracks": [
+      "T05",
+      "T06",
+      "T07"
+    ],
+    "recommended_degree": "MPH",
+    "rationale": [
+      {
+        "track": "T05",
+        "reason": "Strong alignment with community and public health objectives, reinforced by MPH degree fit."
+      },
+      {
+        "track": "T06",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MPH degree fit."
+      },
+      {
+        "track": "T07",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MPH degree fit."
+      }
+    ]
+  },
+  "candidate2": {
+    "top_tracks": [
+      "T03",
+      "T10",
+      "T11"
+    ],
+    "recommended_degree": "MBA-HC",
+    "rationale": [
+      {
+        "track": "T03",
+        "reason": "Strong alignment with financial and strategic focus, reinforced by MBA-HC degree fit."
+      },
+      {
+        "track": "T10",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MBA-HC degree fit."
+      },
+      {
+        "track": "T11",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MBA-HC degree fit."
+      }
+    ]
+  },
+  "candidate3": {
+    "top_tracks": [
+      "T09",
+      "T02",
+      "T03"
+    ],
+    "recommended_degree": "MSHI",
+    "rationale": [
+      {
+        "track": "T09",
+        "reason": "Strong alignment with data and informatics orientation, reinforced by MSHI degree fit."
+      },
+      {
+        "track": "T02",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MSHI degree fit."
+      },
+      {
+        "track": "T03",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MSHI degree fit."
+      }
+    ]
+  },
+  "candidate4": {
+    "top_tracks": [
+      "T01",
+      "T04",
+      "T02"
+    ],
+    "recommended_degree": "MHA",
+    "rationale": [
+      {
+        "track": "T01",
+        "reason": "Strong alignment with quality improvement focus, reinforced by MHA degree fit."
+      },
+      {
+        "track": "T04",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MHA degree fit."
+      },
+      {
+        "track": "T02",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MHA degree fit."
+      }
+    ]
+  },
+  "candidate5": {
+    "top_tracks": [
+      "T07",
+      "T05",
+      "T06"
+    ],
+    "recommended_degree": "MPH",
+    "rationale": [
+      {
+        "track": "T07",
+        "reason": "Strong alignment with policy and healthcare governance focus, reinforced by MPH degree fit."
+      },
+      {
+        "track": "T05",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MPH degree fit."
+      },
+      {
+        "track": "T06",
+        "reason": "Moderate alignment based on overall profile signals, reinforced by MPH degree fit."
+      }
+    ]
+  }
+}
